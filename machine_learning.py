@@ -18,7 +18,7 @@ class first_model():
         self.loss = df['loss']
         self.rmse = df['root_mean_squared_error']
         self.epoch = history.epoch
-        print('prediction_output:', self.model.predict([250]))
+        print('prediction_output:', self.model.predict([300]))
         print('weight:', self.model.get_weights()[0])
         print('bias:', self.model.get_weights()[1])
 
