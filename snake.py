@@ -1,4 +1,4 @@
-#game colors
+#game colors used
 orange=[240,100,23]
 black=[0,0,0]
 white=[255,255,255]
