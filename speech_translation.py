@@ -88,6 +88,8 @@ try:
     #voice3 = italian
     #voice4 = korean
     #voice3 = chinese
+    #note the following values above may vary depending on the languages available 
+    #on your PC
 
     #converting translated text back to speech
     engine = tts.init()
